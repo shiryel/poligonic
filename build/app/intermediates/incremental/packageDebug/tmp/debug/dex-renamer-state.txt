@@ -1,0 +1,4 @@
+#Tue Jun 04 22:47:31 BRT 2019
+base.0=/dados/MEUS DOCUMENTOS/Projetos/gitHub.ViniciusMolina/poligonic/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

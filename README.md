@@ -1,16 +1,34 @@
-# poligonic
+# Poligonic
 
-A new Flutter project.
+Build your spaceship and battle against other players
 
-## Getting Started
+``
+This app is in alpha development
+``
 
-This project is a starting point for a Flutter application.
+## How to test on your device from source
 
-A few resources to get you started if this is your first Flutter project:
+Run:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+``
+flutter packages get
+``
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+``
+flutter run
+``
+
+In the moment of writing, this source code use the flutter beta channel
+
+``
+Flutter 1.5.4-hotfix.2
+``
+``
+Framework - revision 7a4c33425d
+``
+``
+Engine - revision 52c7a1e849
+``
+``
+Tools - Dart 2.3.0 (build 2.3.0-dev.0.5 a1668566e5)
+``

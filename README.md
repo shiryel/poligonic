@@ -1,9 +1,9 @@
 # Poligonic
 
-Build your spaceship and battle against other players
+Polygonic is a game where you can build your spaceship and battle against other players with their own custom defenses
 
 ``
-This app is in alpha development
+Currently the game is on alpha development, with no multiplayer
 ``
 
 ## How to test on your device from source
